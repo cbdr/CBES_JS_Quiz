@@ -1,6 +1,11 @@
 # CBES_JS_Quiz
 
 Please Fork this quiz into your own repository, upload your answers into your repo, and send us the link!
+Please add these users as collaborators in your repository:
+YasserAurico
+JohnLeeCBES
+jwrightcbes
+
 
 # Installation
 -------------------------
